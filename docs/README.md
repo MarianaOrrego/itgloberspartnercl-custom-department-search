@@ -40,7 +40,7 @@ Se dará la opción de filtrar la busqueda en la tienda eligiendo un departament
     ```json   
         "store" : "0.x"
     ```
-   En `dependencies` se van a agregar las siguientes dependencias necesarias para el funcionamiento del **quick order**
+   En `dependencies` se van a agregar las siguientes dependencias necesarias para el funcionamiento del **componente**
 
     ```json   
         "dependencies": {
